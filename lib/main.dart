@@ -46,6 +46,9 @@ class HomePage extends StatelessWidget {
                   color: Color.fromARGB(255, 172, 189, 205), fontSize: 18),
             ),
             TodayCard(),
+            SizedBox(
+              height: 8,
+            ),
             Text(
               '10-day forecast',
               style: TextStyle(
