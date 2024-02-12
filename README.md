@@ -1,16 +1,27 @@
-# tarea_2
+# Tarea 2 | Analizando layouts
 
-A new Flutter project.
+- Layouts
+- Paso de variable a widgets
+- Toast and methods
+- Decoration and color gradient
+- Sizing
 
-## Getting Started
+## Lo que me costo mas trabajo
 
-This project is a starting point for a Flutter application.
+- Ajustar cada elemento a su tamaño ideal
+- Aprender el paso de variables para separar los Widgets
 
-A few resources to get you started if this is your first Flutter project:
+## Lo que aprendí
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Metódos de scafold
+- Separación de widgets
+- Paso de variables
+- Decoration
+- Uso de diferentes Layouts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots de la app
+![imagen](https://github.com/XV02/Tarea2Moviles/assets/29586921/2df2f95f-31e0-402e-9339-5011c60c4ac6)
+
+![imagen](https://github.com/XV02/Tarea2Moviles/assets/29586921/a1801cc0-443c-4961-8358-2125048b52c2)
+
+
